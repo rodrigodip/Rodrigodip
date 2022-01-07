@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rodrigodip and I´m from Brazil. I iniciate my studies on programing just 2 months ago.
+- 👋 Hi, I’m @Rodrigodip and I´m from Brazil. I iniciate my studies not long ago.
 - 👀 I’m interested in learn, learn and learn! At this point I just can learn.
-- 🌱 I’m currently learning OOP with Java, hopping to get the basis to learn Phyton.
+- 🌱 I’m currently enrolled to Harvardx CS50 and I´m very excited to go through it.
 - 💞️ I’m looking to collaborate on basic level learning projects. I´m very interested in practice. 
 
 <!---
