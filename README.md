@@ -1,10 +1,30 @@
-# Olá! Tudo bem?  
+# Hello there! 
    
-#### Aqui vai um pequeno panorama do que eu sei e o que sigo aprendendo. *#neverStopLearning*
-Já concluí cursos introdutórios em HTML5, CSS3 e estou realizando estudos intermediários em JavaScript.  
+### I’m a long term art director that have decided to make a move towards front-end development.
+Seeking to use my graphic design skills to effectively serve your company in a junior or internship position, dedicated and committed to becoming a dependable and
+valuable team member.
 
-Possuo noções básicas em Git e estou estudando a metodologia SCRUM.   
 
-Estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**, com término em 06/24.   
+I'm confortable with:
+   - Angular
+   - TypeScript
+   - JavaScript
+   - CSS
+   - HTML
+   - Git
 
-Tenho inglês avançado.
+Studies in progress:
+   - Java
+   - Docker
+   - MongoDB
+
+  
+## Education
+
+### Pontifica Universidade Católica de Brasília - *Associate Degree*
+System Analysis and Development  
+*JAN 2022 - DEC 2024*
+
+### Universidade Estácio de Sá - *B.A*  
+Graphic Design  
+*DEC 2008*
